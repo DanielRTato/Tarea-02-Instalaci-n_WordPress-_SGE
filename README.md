@@ -144,7 +144,16 @@ En el Dashboard ya se pueden crear entradas, instalar temas y activar plugins.
 
 ![9.png](img/9.png)  
 ![10.png](img/10.png)  
+
+### 7. Instalación de un tema:
+En el apartado apareciancia > temas y buscas el que quieras despeus pulsa actiavr y listo
+
 ![11.png](img/11.png)
+
+### 8. Instalación de un pluggins:
+
+  
+
 
 ---
 
