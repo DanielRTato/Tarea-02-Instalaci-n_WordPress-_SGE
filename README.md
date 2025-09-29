@@ -146,14 +146,21 @@ En el Dashboard ya se pueden crear entradas, instalar temas y activar plugins.
 ![10.png](img/10.png)  
 
 ### 7. Instalación de un tema:
-En el apartado apareciancia > temas y buscas el que quieras despeus pulsa actiavr y listo
+Para instalar un tema accedemos desde la barra lateral al menú **Apariencia → Temas → Añadir nuevo**, buscamos el que nos guste y pulsamos en **Instalar**.  
+Cuando finalice la instalación, hacemos clic en **Activar** para aplicarlo.
 
 ![11.png](img/11.png)
 
-### 8. Instalación de un pluggins:
+---
 
-  
+### 8. Instalación de un plugin
 
+Para instalar un plugin accedemos desde la barra lateral al menú **Plugins → Añadir nuevo**, buscamos el que queramos y pulsamos en **Instalar**.  
+Una vez instalado, hacemos clic en **Activar** para aplicarlo.
+
+![pluggins.png](img/pluggins.png)
+
+Los temas y los plugins también se pueden descargar desde sitios externos en formato `.zip` e instalarse de forma manual desde la opción **Subir plugin** o **Subir tema**.
 
 ---
 
