@@ -13,6 +13,8 @@ Guía de instalación y configuración de WordPress en Ubuntu Server.
     - [4. Configurar la base de datos](#4-configurar-la-base-de-datos)
     - [5. Configurar WordPress para conectar con la base de datos](#5-configurar-wordpress-para-conectar-con-la-base-de-datos)
     - [6. Configuración inicial de WordPress](#6-configuración-inicial-de-wordpress)
+   - [7. Instalar un tema](#7-instalación-de-un-tema)
+   - [8. Instalar un plugin](#8-instalación-de-un-plugin)
 3. [Referencias](#referencias)
 
 ---
