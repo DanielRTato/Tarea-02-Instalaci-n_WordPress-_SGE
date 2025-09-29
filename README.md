@@ -119,30 +119,27 @@ Comando: sudo -u www-data sed -i 's/password_here/<tu-contraseña>/' /srv/www/wo
 
 ![7.png](img/7.png)
 
-Abrimos el archivo para añadir claves y sales (AUTH_KEY, SECURE_AUTH_KEY, etc.):  
-Comando: sudo nano /srv/www/wordpress/wp-config.php
+Abrimos el archivo con:
+```bash
+sudo nano /srv/www/wordpress/wp-config.php
+````
 
-Y donde pone "put your unique phrase here" sustituimos  por valores generados en la API de WordPress. Guardamos con Ctrl+X, Y, Enter.
+Y donde pone "put your unique phrase here" sustituimos pegamos. Guardamos con Ctrl+X, Y, Enter.
 
- 
 ![8.png](img/8.png)
 
 ---
 
 ### 6. Configuración inicial de WordPress
-Accedemos desde el navegador a la IP o dominio del servidor:  
-http://<tu-ip-o-dominio>/
+Accedemos desde el navegador a la IP o dominio del servidor:
 
-El asistente inicial pedirá:
+Al abrirlo nos pedirá: 
 - Nombre del sitio
 - Usuario de administración
 - Contraseña
 - Correo electrónico
 
-Después, accedemos al panel de administración:  
-http://<tu-ip-o-dominio>/wp-login.php
-
-En el Dashboard ya se pueden crear entradas, instalar temas y activar plugins.
+Y con eso terminamos la instalación de Wordpress.
 
 ![9.png](img/9.png)  
 ![10.png](img/10.png)  
